@@ -23,3 +23,6 @@ Thumbs.db
 *.iml
 .gradle
 build/
+
+# macOS
+.DS_Store
